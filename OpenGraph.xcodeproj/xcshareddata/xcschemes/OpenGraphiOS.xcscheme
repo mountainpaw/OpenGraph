@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7B24FB141D3B2583005275B0"
-               BuildableName = "OpenGraph.framework"
-               BlueprintName = "OpenGraph"
+               BlueprintIdentifier = "A77196371D89103400ABEC7F"
+               BuildableName = "OpenGraphiOS.framework"
+               BlueprintName = "OpenGraphiOS"
                ReferencedContainer = "container:OpenGraph.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,26 +28,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7B24FB1E1D3B2583005275B0"
-               BuildableName = "OpenGraphTests.xctest"
-               BlueprintName = "OpenGraphTests"
-               ReferencedContainer = "container:OpenGraph.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7B24FB141D3B2583005275B0"
-            BuildableName = "OpenGraph.framework"
-            BlueprintName = "OpenGraph"
-            ReferencedContainer = "container:OpenGraph.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -64,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7B24FB141D3B2583005275B0"
-            BuildableName = "OpenGraph.framework"
-            BlueprintName = "OpenGraph"
+            BlueprintIdentifier = "A77196371D89103400ABEC7F"
+            BuildableName = "OpenGraphiOS.framework"
+            BlueprintName = "OpenGraphiOS"
             ReferencedContainer = "container:OpenGraph.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -82,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7B24FB141D3B2583005275B0"
-            BuildableName = "OpenGraph.framework"
-            BlueprintName = "OpenGraph"
+            BlueprintIdentifier = "A77196371D89103400ABEC7F"
+            BuildableName = "OpenGraphiOS.framework"
+            BlueprintName = "OpenGraphiOS"
             ReferencedContainer = "container:OpenGraph.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
